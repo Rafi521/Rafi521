@@ -6,13 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafi521&label=Profile%20views&color=0e75b6&style=flat" alt="rafi521" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN (MongoDB, Express.js, React, Node.js)**.
+- 💬 Ask me about **Android development and competitive programming**.
+- 📫 You can reach me at **istehadrafi09@gmail.com**.
+- ⚡ Fun fact: **I have a good sense of humor and consider myself funny**.
 
-- 💬 Ask me about **Android**
-
-- 📫 How to reach me **istehadrafi09@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
