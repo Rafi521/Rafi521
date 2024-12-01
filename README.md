@@ -1,6 +1,4 @@
-Here’s an updated README using your CV information:  
 
----
 
 <h1 align="center">~ Hello there! I'm Md. Istehad Ahmed Rafi ~</h1>
 
