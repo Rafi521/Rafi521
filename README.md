@@ -1,29 +1,43 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)] 
-<h1 align="center">Hi 👋, I'm Rafi</h1>
-<h3 align="center">A passionate competetive programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+Here’s an updated README using your CV information:  
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafi521&label=Profile%20views&color=0e75b6&style=flat" alt="rafi521" /> </p>
+<h1 align="center">~ Hello there! I'm Md. Istehad Ahmed Rafi ~</h1>
 
-- 🌱 I’m currently learning **MERN (MongoDB, Express.js, React, Node.js)**.
-- 💬 Ask me about **Android development and competitive programming**.
-- 📫 You can reach me at **istehadrafi09@gmail.com**.
-- ⚡ Fun fact: **I have a good sense of humor and consider myself funny**.
+I'm a **Computer Science and Engineering** student at _[Ahsanullah University of Science and Technology](https://www.aust.edu/)_ with a passion for backend development, AI, and blockchain. I’ve built several full-stack projects, explored deep learning, and developed innovative solutions. I thrive on problem-solving, coding challenges, and creating efficient systems.
 
+> 💡 *I'm open to opportunities in backend engineering, AI development, and blockchain solutions!*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md.istehad ahmed rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md.istehad ahmed rafi" height="30" width="40" /></a>
-<a href="https://fb.com/istehad ahmed rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="istehad ahmed rafi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/istehad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="istehad" height="30" width="40" /></a>
+### 🧑‍💻 My Tech!
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- **Backend** - `Node.js` `Express.js` `ASP.NET MVC`
+- **Database** - `MongoDB` `SQL Server`
+- **AI/ML** - `Deep Learning` `Bi-LSTM` `BERT`
+- **Tools & Frameworks** - `HTML` `CSS` `JavaScript` `Git`
+- **Languages** - `C++` `C#` `JavaScript`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafi521&show_icons=true&locale=en&layout=compact" alt="rafi521" /></p>
+### 🌱 Cool Projects I’ve Worked On:
+- **[CampingBd](https://campingbd.onrender.com/)** | *Node.js, Express, MongoDB*  
+  Interactive platform showcasing various campgrounds. Authorized users can add, edit, or delete campgrounds.  
+  [GitHub Repository](https://github.com/Rafi521/CampingBd)  
+- **[RideSavvy](https://github.com/Rafi521/RideSavvy)** | *ASP.NET MVC*  
+  An online platform for convenient vehicle rentals in tourist zones.  
+- **[Twitter Emotion Classification](https://github.com/Rafi521/twitter-emotion-extraction-using-deep-learning)** | *Deep Learning, BERT, Bi-LSTM*  
+  Extracts and classifies emotions from tweets for enhanced sentiment analysis.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafi521&show_icons=true&locale=en" alt="rafi521" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi521&" alt="rafi521" /></p>
+> ***Feel free to connect with me via 📫 [email](mailto:istehadrafi09@gmail.com), [LinkedIn](https://linkedin.com/in/md-istehad-ahmed-rafi), or explore my [GitHub](https://github.com/Rafi521) and [Portfolio](https://rafi77.vercel.app/). Let’s collaborate on exciting projects and ideas!***
